@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/boysanic/git/xoroshiro_lootseed/lootseed.srcs/sources_1/new/XNextLong.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module XNextLong
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/boysanic/git/xoroshiro_lootseed/lootseed.srcs/sources_1/new/XNextLongJ.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module XNextLongJ
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/boysanic/git/xoroshiro_lootseed/lootseed.srcs/sources_1/new/xSetSeed.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module XSetSeed
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/boysanic/git/xoroshiro_lootseed/lootseed.srcs/sim_1/new/test_xnextlongj.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test_xnextlong
