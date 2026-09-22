@@ -1,4 +1,0 @@
-Running: xsim.dir/test_xnextlong_behav/xsimk -simmode gui -wdb test_xnextlong_behav.wdb -simrunnum 0 -socket 33513
-Design successfully loaded
-Design Loading Memory Usage: 197436 KB (Peak: 197492 KB)
-Design Loading CPU Usage: 640 ms
