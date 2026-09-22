@@ -1,0 +1,1 @@
+goldenratio_add.vhd,vhdl,xil_defaultlib,../../../../lootseed.gen/sources_1/ip/goldenratio_add/sim/goldenratio_add.vhd,incdir="../../../../../../.vivado/2025.2/data/rsb/busdef"

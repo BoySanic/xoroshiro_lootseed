@@ -36,11 +36,8 @@ module test_xsetseed(
     
     
     task test1 ();
-        input_seed = 1234;
-        #5
-        input_seed = 69;
-        #5
-        input_seed = 420;
+        input_seed = 64'd6807859099481836695;
+        #5;
     endtask
     initial begin
         clk = 0;

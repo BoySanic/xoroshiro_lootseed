@@ -1,0 +1,1 @@
+mix2_mult_bram.vhd,vhdl,xil_defaultlib,../../../../lootseed.gen/sources_1/ip/mix2_mult_bram/sim/mix2_mult_bram.vhd,incdir="../../../../../../.vivado/2025.2/data/rsb/busdef"

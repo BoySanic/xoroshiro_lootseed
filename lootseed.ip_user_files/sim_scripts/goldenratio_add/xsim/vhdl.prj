@@ -1,0 +1,5 @@
+vhdl xil_defaultlib  \
+"../../../../lootseed.gen/sources_1/ip/goldenratio_add/sim/goldenratio_add.vhd" \
+
+# Do not sort compile order
+nosort

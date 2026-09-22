@@ -1,0 +1,1 @@
+add_i64_i32_lut.vhd,vhdl,xil_defaultlib,../../../../lootseed.gen/sources_1/ip/add_i64_i32_lut/sim/add_i64_i32_lut.vhd,incdir="../../../../../../.vivado/2025.2/data/rsb/busdef"

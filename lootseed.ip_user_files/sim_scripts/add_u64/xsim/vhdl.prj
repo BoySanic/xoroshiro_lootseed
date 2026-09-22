@@ -1,0 +1,5 @@
+vhdl xil_defaultlib  \
+"../../../../lootseed.gen/sources_1/ip/add_u64/sim/add_u64.vhd" \
+
+# Do not sort compile order
+nosort
